@@ -17,10 +17,9 @@ My OSes:
 </div><img alt="Static Badge" src="https://img.shields.io/badge/BunnyPad%20Developer%20Code-001-0078d7">
 <h1 align='center'><strong>SOME</strong> Programming Languages I Use:</h1>
 <br>
-<!--no questions asked-->
 <div align='center'>
   <img src='https://img.shields.io/badge/-HTML-000000?logo=html5&logoColor=orange&style=for-the-badge'>
-  <img src='https://img.shields.io/badge/-HTML-000000?logo=html5&logoColor=orange&style=for-the-badge]'>
+  <img src='https://img.shields.io/badge/-PYTHON-000000?logo=python&style=for-the-badge'>
 
 </div>
 
