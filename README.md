@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @GarryStraitYT-Apps
-- 👀 I’m interested in Beyblade, Among Us, YouTube, Minecraft, and coding
-- 🌱 I’m currently learning Python Coding
-- 💞️ I’m looking to collaborate on Any projects
-- 📫 How to reach me Discord: GarryStraitYT#7914 Email: bionichuman07@gmail.com (please include in the subject why you are reaching me)
+# Yo
+Welcome to my Github Profile! I'm the developer of BunnyPad, a FOSS Notepad Alternative that seeks to redesign how people think of Notepad.
+I'm also interested in CyberSecurity, and am anti-telemetry.
+My OSes:
+- Kali Linux (PenTesting)
+- Debian (It Just Works)
+- Arch (not bad tbh)
+- ChromeOS
+- Raspberry Pi OS
+- Android
+- TinyCore CorePlus
+- Windows 11
 
-<!---
-GarryStraitYT-Apps/GarryStraitYT-Apps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  <h1 align='center'>My Stats</h2>
+<div align='center'>
+  <img align='center' src="https://github-readme-stats.vercel.app/api?username=GarryStraitYT&layout=compact&show_icons=true&count_private=true&theme=dark" alt="github status"/>
+</div>
+
+<h1 align='center'><strong>SOME</strong>Programming Languages I Use:</h1>
+<br>
+<!--no questions asked-->
+<div align='center'>
+  <img src='https://img.shields.io/badge/-HTML-000000?logo=html5&logoColor=orange&style=for-the-badge'>
+  <img src'https://img.shields.io/badge/-PYTHON-000000?logo=python&style=for-the-badge'>
+</div>
+
+### More info will be added later
