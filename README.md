@@ -2,14 +2,14 @@
 Welcome to my Github Profile! I'm the developer of BunnyPad, a FOSS Notepad Alternative that seeks to redesign how people think of Notepad.
 I'm also interested in CyberSecurity, and am anti-telemetry.
 My OSes:
-- Kali Linux (PenTesting)
-- Debian (It Just Works)
+- ~~Kali Linux (PenTesting)~~ (reassigned the computer)
+- ~~Debian (It Just Works)~~ (Lack of hardware)
 - Arch (not bad tbh)
-- ChromeOS
+- ~~ChromeOS~~ (Don't feel like dealing with it)
 - Raspberry Pi OS
-- Android
-- TinyCore CorePlus
-- Windows 11
+- Android (CrDroid)
+- ~~TinyCore CorePlus~~ (no need for it now)
+- ~~Windows 11~~ (Moving away from Windows)
 
   <h1 align='center'>My Stats</h2>
 <div align='center'>
@@ -23,4 +23,6 @@ My OSes:
 
 </div>
 
+
+My main phone is running CrDroid 11.9 with SukiSU Ultra and MicroG. I use it because of how liberating it is.
 ### More info will be added later
