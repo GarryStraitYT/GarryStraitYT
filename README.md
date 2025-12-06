@@ -24,5 +24,10 @@ My OSes:
 </div>
 
 
-My main phone is running CrDroid 12.3 with SukiSU Ultra (self-built kernel!) and MicroG. I use it because of how liberating it is.
+### Setup Statistics:
+
+My main phone is a OnePlus Nord N200 5G (DE2117) running CrDroid 12.3 with SukiSU Ultra (self-built kernel!) and MicroG. I use it because of how liberating it is.
+Technical Details about the kernel: `Linux version 5.4.300-qgki-g92d944a9517f (sans@the-skeleton) (Android (9352603, based on r450784d1) clang version 14.0.7 (https://android.googlesource.com/toolchain/llvm-project 4c603efb0cca074e9238af8b4106c30add4418f6), LLD 14.0.7) #6 SMP PREEMPT Tue Nov 25 10:44:20 AM EST 2025`
+
+
 ### More info will be added later
