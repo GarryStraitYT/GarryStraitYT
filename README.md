@@ -24,5 +24,5 @@ My OSes:
 </div>
 
 
-My main phone is running CrDroid 11.9 with SukiSU Ultra and MicroG. I use it because of how liberating it is.
+My main phone is running CrDroid 12.3 with SukiSU Ultra (self-built kernel!) and MicroG. I use it because of how liberating it is.
 ### More info will be added later
