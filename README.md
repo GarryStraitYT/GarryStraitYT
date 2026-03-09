@@ -1,15 +1,10 @@
 # Yo
-Welcome to my Github Profile! I'm the developer of BunnyPad, a FOSS Notepad Alternative that seeks to redesign how people think of Notepad.
+Welcome to my Github Profile! I'm the developer of BunnyPad, a FOSS Notepad Alternative that seeks to redesign how people think of Notepad; and CharaROM, a custom Android distribution based on LineageOS.
 I'm also interested in CyberSecurity, and am anti-telemetry.
 My OSes:
-- ~~Kali Linux (PenTesting)~~ (reassigned the computer)
-- ~~Debian (It Just Works)~~ (Lack of hardware)
-- Arch (not bad tbh)
-- ~~ChromeOS~~ (Don't feel like dealing with it)
-- Raspberry Pi OS
-- Android (CrDroid)
-- ~~TinyCore CorePlus~~ (no need for it now)
-- ~~Windows 11~~ (Moving away from Windows)
+- Arch (Main OS)
+- Android (CharaROM)
+- Windows 10 IoT Enterprise LTSC 2021 (Gaming)
 
   <h1 align='center'>My Stats</h2>
 <div align='center'>
@@ -26,8 +21,6 @@ My OSes:
 
 ### Setup Statistics:
 
-My main phone is a OnePlus Nord N200 5G (DE2117) running CrDroid 12.3 with SukiSU Ultra (self-built kernel!) and MicroG. I use it because of how liberating it is.
-Technical Details about the kernel: `Linux version 5.4.300-qgki-g92d944a9517f (sans@the-skeleton) (Android (9352603, based on r450784d1) clang version 14.0.7 (https://android.googlesource.com/toolchain/llvm-project 4c603efb0cca074e9238af8b4106c30add4418f6), LLD 14.0.7) #6 SMP PREEMPT Tue Nov 25 10:44:20 AM EST 2025`
-
+My main phone is a OnePlus Nord N200 5G (DE2117) running CharaROM with FolkPatch for root and MicroG. I use it because of how liberating it is.
 
 ### More info will be added later
