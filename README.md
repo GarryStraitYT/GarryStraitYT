@@ -15,7 +15,8 @@ My OSes:
 <div align='center'>
   <img src='https://img.shields.io/badge/-HTML-000000?logo=html5&logoColor=orange&style=for-the-badge'>
   <img src='https://img.shields.io/badge/-PYTHON-000000?logo=python&style=for-the-badge'>
-
+  <img src='https://img.shields.io/badge/-JAVA-000000?logo=java&style=for-the-badge'>
+  
 </div>
 
 
